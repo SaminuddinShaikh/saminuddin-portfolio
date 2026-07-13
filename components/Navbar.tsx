@@ -56,7 +56,7 @@ export default function Navbar() {
             data-cursor-hover
             className="font-display text-lg tracking-tight text-paper"
           >
-            S.<span className="text-amber">Shaikh</span>
+            S.<span className="text-amber">Saminuddin</span>
           </a>
 
           <ul className="hidden items-center gap-9 md:flex">
