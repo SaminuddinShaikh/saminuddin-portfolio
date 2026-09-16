@@ -60,5 +60,5 @@ export const links = {
   phone: "+91 88988 01395",
   github: "https://github.com/SaminuddinShaikh",
   linkedin: "https://linkedin.com/in/saminuddin-shaikh",
-  resume: "https://bit.ly/4tAvKNX",
+  resume: "https://bit.ly/4xs7LS6",
 };
